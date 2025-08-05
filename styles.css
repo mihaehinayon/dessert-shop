@@ -552,8 +552,22 @@ body {
     height: 200px;
   }
   
+  .add-to-cart-btn {
+    padding: var(--spacing-xs) var(--spacing-md);
+    font-size: 0.875rem;
+  }
+  
+  .add-to-cart-btn img {
+    width: 14px;
+    height: 14px;
+  }
+  
+  .add-to-cart-container {
+    bottom: -18px;
+  }
+  
   .product-info {
-    margin-top: var(--spacing-lg);
+    margin-top: var(--spacing-xl);
   }
 }
 
