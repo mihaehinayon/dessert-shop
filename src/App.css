@@ -541,11 +541,19 @@ body {
   
   .products-grid {
     grid-template-columns: 1fr;
-    gap: var(--spacing-md);
+    gap: var(--spacing-xl);
+  }
+  
+  .product-image {
+    margin-bottom: var(--spacing-xl);
   }
   
   .product-image img {
     height: 200px;
+  }
+  
+  .add-to-cart-container {
+    bottom: -24px;
   }
 }
 
