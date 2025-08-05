@@ -552,8 +552,8 @@ body {
     height: 200px;
   }
   
-  .add-to-cart-container {
-    bottom: -24px;
+  .product-info {
+    margin-top: var(--spacing-lg);
   }
 }
 
