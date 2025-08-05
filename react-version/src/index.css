@@ -1,0 +1,12 @@
+/* Minimal reset styles for React */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* All other styles are in App.css */
